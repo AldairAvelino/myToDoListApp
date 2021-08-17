@@ -12,7 +12,7 @@
 ## 🤷‍♂️ Benefícios de Ter uma To Do List
   Manter uma to do list irá possibilitar que, no final do dia, olhe para todas aquelas tarefas que foram concluídas e sinta uma grande satisfação e a sensação de que foi capaz de vencer todas as obrigações que tinha a cumprir. Aproveite e confira, a seguir, os principais benefícios de adotar esse hábito de gerenciamento de tempo.
 
-- Evite Que Alguma Tarefa Seja Esquecida
+1. Evite Que Alguma Tarefa Seja Esquecida
 
   Por melhor que seja a sua memória, o acúmulo de informações pode fazer com que ela falhe e acabe se esquecendo de algo que precisa realizar. Além disso, essa sensação de ter que memorizar tantas coisas pode comprometer o sono e o descanso, gerando, até mesmo, quadros de estresse. Ao registrar tudo em uma lista é possível relaxar, porque saberá que todos os dados estão seguros.
 
