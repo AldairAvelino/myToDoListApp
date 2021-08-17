@@ -1,6 +1,6 @@
-<h4 align="center"> 
+<h1 align="center"> 
 	My TODO List App
-</h4>
+</h1>
 
 <h1 align="center">
     <img alt="Image" title="My TODO List App" src="assets/images/readmeBG.jpg"/>
