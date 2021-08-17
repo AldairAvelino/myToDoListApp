@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h4 align="center"> 
 	My TODO List App
 </h4>
@@ -56,3 +57,7 @@
 É importante lembrar que, ao longo do dia, é natural que situações inesperadas aconteçam e criem a necessidade de fazer alterações na sua lista. Além disso, podem haver casos em que você mesmo irá perceber que fazer adaptações irá te ajudar a se tornar mais produtivo. Portanto, seja flexível e entenda que a sua lista é como a vida e está sujeita a mudanças.
 
 Por fim, é importante que mantenha o equilíbrio e evite transformar a sua vida em uma grande lista cheias de regras. Afinal, por mais que seja um instrumento eficaz e que irá te ajudar a ser mais produtivo, ter momentos de descanso, sem horário para fazer isso ou aquilo também é importante. Pense nisso!
+=======
+# My TODO List App
+This is a TODO list App
+>>>>>>> f0b58dfb8ff18ca7e46e3b2f6118abf2995778aa
