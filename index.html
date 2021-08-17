@@ -4,10 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=BioRhyme&amp;family=Space+Mono&amp;display=swap">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>Ceep</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets/images/ToDoList.jpg" type="image/x-icon">
+    <title>TODO List App</title>
 </head>
 
 <body>
@@ -18,14 +17,19 @@
             </h1>
 
             <form class="form" action="">
-                <input class="form-input" type="text">
-                <button class="form-button"> Novo Item </button>
+                <input class="form-input" type="text" data-form-input>
+                <button class="form-button" data-form-button> Novo Item </button>
             </form>
 
-            <ul class="list">
-
+            <ul class="list" data-list>
+                <li class="task" data-task>
+                    <p class="content">
+                        Adicionar a primeira tarefa na lista
+                    </p>
+                </li>
             </ul>
         </div>
+        <script type="module" src="assets/script/script.js"></script>
 </body>
 
 </html>
