@@ -36,33 +36,34 @@
 
   Para criar uma to do list eficaz não basta fazer uma lista de tarefas sem nenhum tipo de critério e é necessário considerar alguns pontos importantes, veja quais são eles.
 
-a. Eleja o Meio Que For Mais Fácil Para Você
+1. Eleja o Meio Que For Mais Fácil Para Você
 
   Existem diversos aplicativos e softwares bastante eficientes que podem te ajudar nessa missão de organizar o seu dia. Entretanto, eles apenas serão positivos se fizerem sentido para você e se encaixarem na sua rotina. Se preferir o método convencional e quiser uma agenda de papel, tudo bem, o importante é que seja algo de fácil acesso e que esteja sempre à mão.
 
-– Crie Listas Que Estejam Dentro da Sua Realidade
+2. Crie Listas Que Estejam Dentro da Sua Realidade
 
   As suas listas precisam ser, acima de tudo, possíveis de serem cumpridas, afinal de nada adianta se programas para realizar um grande número de tarefas que sabe que não terá tempo para realizar. Portanto, seja realista e lembre-se de que também precisará descansar, se alimentar, enfim, ter uma vida fora da lista.
 
-– Considere Tarefas de Prazos Maiores
+3. Considere Tarefas de Prazos Maiores
 
   As listas são ótimas para planejar os seus dias, mas é importante considerar, também, as atividades de longo prazo, como pagamentos que precisa realizar uma vez ao mês, por exemplo. Essas informações registradas com antecedência irão te ajudar a programar os dias conforme eles forem se aproximando.
 
-– Lembre-se de Estipular a Ordem das Tarefas
+4. Lembre-se de Estipular a Ordem das Tarefas
 
   Ordenar as tarefas considerando sua importância é fundamental para que se certifique de dar a devida atenção às suas prioridades e evite se ocupar de atividades sem relevância. Isso também irá te ajudar a verificar se precisa agendar algo para o mesmo dia ou se é possível realocar essa tarefa em uma data futura.
 
-– Reflita Sobre as Tarefas Que Não Forem Concluídas
+5. Reflita Sobre as Tarefas Que Não Forem Concluídas
 
   Sempre que não conseguir concluir uma tarefa, reflita sobre a razão que levou a isso. Foi algum erro que cometeu ou uma circunstância que fugiu do seu controle? Havia algo que poderia ter feito para evitar? Lembre-se que a ideia é refletir para que possa melhorar e não se culpar.
 
-– Avalie as Tarefas Urgentes Que Chegarem Inesperadamente
+6. Avalie as Tarefas Urgentes Que Chegarem Inesperadamente
 
   É bastante comum que outras pessoas cheguem solicitando que realize tarefas urgentes, principalmente no trabalho. Quando isso acontecer contigo, avalie se realmente se trata de algo que precisa ser feito imediatamente, para evitar que a pressa alheia comprometa e sua produtividade.
 
-– Divida Grandes Projetos em Tarefas Menores
+7. Divida Grandes Projetos em Tarefas Menores
 
   Sempre que tiver um projeto maior para realizar, separe-o em tarefas menores e estipule prazos. Assim conseguirá se manter mais motivado para vencer cada etapa e terá mais controle sobre o seu tempo, evitando que se perca ou deixe tudo para fazer de última hora.
+
 
 
 É importante lembrar que, ao longo do dia, é natural que situações inesperadas aconteçam e criem a necessidade de fazer alterações na sua lista. Além disso, podem haver casos em que você mesmo irá perceber que fazer adaptações irá te ajudar a se tornar mais produtivo. Portanto, seja flexível e entenda que a sua lista é como a vida e está sujeita a mudanças.
