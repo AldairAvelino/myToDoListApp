@@ -21,7 +21,7 @@
 
 - Realização de Tarefas Semelhantes
   A lista é interessante porque permite, também, que organize as tarefas semelhantes para realizá-las de uma vez só. Assim, se precisa ir ao banco e à uma consulta médica, por exemplo, e sabe que são locais próximos, poderá aproveitar a mesma viagem para resolver tudo de forma mais ágil. O mesmo vale para ligações, envio de e-mails e diversas outras atividades que se tornam mais rápidas quando realizadas de uma só vez.
-
+  
 – Acompanhamento dos Seus Progressos
   A sensação de marcar uma tarefa como realizada é incrível e se torna ainda mais poderosa quando chega o final do dia. É extremamente motivador perceber que foi capaz de vencer tudo aquilo. Além disso, também é uma forma de se tornar consciente caso esteja deixando a desejar e postergando suas obrigações.
 
