@@ -16,19 +16,19 @@
 
   Por melhor que seja a sua memória, o acúmulo de informações pode fazer com que ela falhe e acabe se esquecendo de algo que precisa realizar. Além disso, essa sensação de ter que memorizar tantas coisas pode comprometer o sono e o descanso, gerando, até mesmo, quadros de estresse. Ao registrar tudo em uma lista é possível relaxar, porque saberá que todos os dados estão seguros.
 
-- Priorização do Que é Realmente Importante
+2. Priorização do Que é Realmente Importante
 
   Quando as tarefas são realizadas sem nenhum critério, existem grandes chances de se desperdiçar tempo com coisas sem importância e acabar deixando atividades importantes de lado. Com a lista é possível ter uma visão mais ampla em relação a tudo o que precisa fazer e, assim, priorizar aquelas que forem mesmo necessárias.
 
-- Realização de Tarefas Semelhantes
+3. Realização de Tarefas Semelhantes
 
   A lista é interessante porque permite, também, que organize as tarefas semelhantes para realizá-las de uma vez só. Assim, se precisa ir ao banco e à uma consulta médica, por exemplo, e sabe que são locais próximos, poderá aproveitar a mesma viagem para resolver tudo de forma mais ágil. O mesmo vale para ligações, envio de e-mails e diversas outras atividades que se tornam mais rápidas quando realizadas de uma só vez.
   
-– Acompanhamento dos Seus Progressos
+4. Acompanhamento dos Seus Progressos
 
   A sensação de marcar uma tarefa como realizada é incrível e se torna ainda mais poderosa quando chega o final do dia. É extremamente motivador perceber que foi capaz de vencer tudo aquilo. Além disso, também é uma forma de se tornar consciente caso esteja deixando a desejar e postergando suas obrigações.
 
-– Facilidade Para Reagendar Tarefas
+5. Facilidade Para Reagendar Tarefas
 
   É claro que todo mundo quer conseguir fazer tudo o que precisa em um mesmo dia. Contudo, sabemos que nem sempre as coisas acontecem como esperamos. Nesses casos, a to do list também é positiva, porque facilita o reagendamento das tarefas que, por algum motivo, não puderam ser concluídas para o dia seguinte.
 
@@ -36,7 +36,7 @@
 
   Para criar uma to do list eficaz não basta fazer uma lista de tarefas sem nenhum tipo de critério e é necessário considerar alguns pontos importantes, veja quais são eles.
 
-– Eleja o Meio Que For Mais Fácil Para Você
+a. Eleja o Meio Que For Mais Fácil Para Você
 
   Existem diversos aplicativos e softwares bastante eficientes que podem te ajudar nessa missão de organizar o seu dia. Entretanto, eles apenas serão positivos se fizerem sentido para você e se encaixarem na sua rotina. Se preferir o método convencional e quiser uma agenda de papel, tudo bem, o importante é que seja algo de fácil acesso e que esteja sempre à mão.
 
