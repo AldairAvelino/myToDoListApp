@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: #167def;
 }
 
 .app {
@@ -10,8 +11,8 @@ body {
     min-height: 100vh;
 }
 
-.todo-list {
-    background-color: #0B2027;
+.todo {
+    background-color: #2489a6;
     font-family: "Space Mono", monospace;
     padding: 1rem;
     min-width: 400px;
