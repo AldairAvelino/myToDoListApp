@@ -13,7 +13,7 @@ body {
     font-weight: 300;
 }
 
-#login-box {
+#sign-up-box {
     position: relative;
     margin: 5% auto;
     width: 600px;
@@ -63,7 +63,7 @@ input[type="password"]:focus {
 }
 
 input[type="submit"] {
-    margin-top: 28px;
+    margin-top: 10px;
     width: 120px;
     height: 32px;
     background: #16a085;
@@ -119,7 +119,7 @@ input[type="submit"]:active {
 
 .right .loginwith {
     display: block;
-    margin-bottom: 40px;
+    margin-bottom: 90px;
     font-size: 28px;
     color: #FFF;
     text-align: center;
