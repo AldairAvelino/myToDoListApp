@@ -1,1 +1,1 @@
-alert("Login");
+console.log("Login");
