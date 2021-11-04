@@ -125,7 +125,7 @@ input[type="submit"]:active {
     text-align: center;
 }
 
-button.social-signin {
+button.social-signup {
     margin-bottom: 20px;
     width: 220px;
     height: 36px;
@@ -138,25 +138,25 @@ button.social-signin {
     cursor: pointer;
 }
 
-button.social-signin:hover,
-button.social-signin:focus {
+button.social-signup:hover,
+button.social-signup:focus {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
     transition: 0.2s ease;
 }
 
-button.social-signin:active {
+button.social-signup:active {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
     transition: 0.2s ease;
 }
 
-button.social-signin.facebook {
+button.social-signup.facebook {
     background: #32508E;
 }
 
-button.social-signin.twitter {
+button.social-signup.twitter {
     background: #55ACEE;
 }
 
-button.social-signin.google {
+button.social-signup.google {
     background: #DD4B39;
 }
